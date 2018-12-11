@@ -1,0 +1,24 @@
+1:Egg & Cheese on Bagel               :$4.49
+2:Cheese Melt on Bagel                :$2.99
+3:Bacon Egg & Cheese on Bagel         :$4.99
+4:Ham Egg & Cheese on Bagel           :$4.99
+5:Sausage Egg & Cheese on Bagel       :$4.99
+6:Egg & Cheese on Brioche             :$4.49
+7:Cheese Melt on Brioche              :$2.99
+8:Bacon Egg & Cheese on Brioche       :$4.99
+9:Ham Egg & Cheese on Brioche         :$4.99
+10:Ssg Egg & Cheese on Brioche         :$4.99
+11:Egg & Cheese on Croissant           :$4.49
+12:Cheese Melt on Croissant            :$2.99
+13:Bcn Egg & Cheese on Croissant       :$4.99
+14:Ham Egg & Cheese on Croissant       :$4.99
+15:Ssg Egg & Cheese on Croissant       :$4.99
+16:Asiago Bagel w/CrmChs               :$2.49
+17:Asiago Bagel  w/Butter              :$1.99
+18:Plan Bagel w/CrmChs                 :$1.99
+19:Plan Bagel w/Butter                 :$1.99
+20:MltGrn Bgl w/CrmChs                 :$1.99
+21:MltGrn Bgl w/Butter                 :$1.99
+22:Chocolate Croissant                 :$2.49
+23:Almond Croissant                    :$2.79
+24:Choc chip Cookie                    :$1.99
